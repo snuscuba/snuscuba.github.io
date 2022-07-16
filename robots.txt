@@ -1,0 +1,2 @@
+Host: https://snuscuba.com.ua
+Sitemap: https://snuscuba.com.ua/sitemap.xml
